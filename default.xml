@@ -14,7 +14,7 @@
 
 <!-- xdCAF Open Source Project Remote Repository -->
 <remote   name="xd"
-          fetch="https://github.com/xdroid-CAF/"
+          fetch="https://github.com/Rwulf55/"
           revision="twelve"/>
 
 <!-- xyzprjkt Remote Repository -->
